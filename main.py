@@ -8,7 +8,7 @@ from pages_selectbox.SQL_tables_editor import *
 #123#test
 
 def app_general_settings():
-    st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout="wide")
+    st.set_page_config(page_title="st_for_db", page_icon=":database:", layout="wide")
 
 app_settings = app_general_settings()
 
